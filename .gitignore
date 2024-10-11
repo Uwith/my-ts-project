@@ -1,0 +1,10 @@
+# 忽略掉 IDE 的临时文件
+.idea/
+.vscode/
+.DS_Store
+
+# 忽略掉编译生成的文件
+dist
+
+# 忽略掉 node_modules
+node_modules
